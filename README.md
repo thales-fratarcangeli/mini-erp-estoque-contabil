@@ -1,5 +1,7 @@
 # Mini-ERP de Estoque com Lançamentos Contábeis Automáticos
 
+[![Testes](https://github.com/thales-fratarcangeli/mini-erp-estoque-contabil/actions/workflows/testes.yml/badge.svg)](https://github.com/thales-fratarcangeli/mini-erp-estoque-contabil/actions/workflows/testes.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white)
+
 Protótipo de ERP em Python que conecta a operação de um pequeno comércio
 (cadastro de produtos, compras e vendas) com a contabilidade: **cada
 movimentação de estoque gera, automaticamente, os lançamentos contábeis em
